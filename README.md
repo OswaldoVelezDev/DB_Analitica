@@ -1,2 +1,2 @@
 # DB_Analitica
-Base de datos analiticas
+Base de dato analitica
